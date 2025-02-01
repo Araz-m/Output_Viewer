@@ -44,5 +44,5 @@ real_time=True
 Run the OpenFast_Output_Viewer Script (I used VSCode Terminal)
 
 ## 📸 Sample Output
-
+https://github.com/Araz-m/OpenFast_Output_Viewer/blob/main/Figure_1_Example.png
 
