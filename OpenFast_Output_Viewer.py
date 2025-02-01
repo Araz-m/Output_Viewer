@@ -188,7 +188,8 @@ def plot_multiple_groups(*all_plot_groups, real_time=True, interval=100):
                             unit = f" {units.get(col, '-')}" if col in units else ""
                             ax.plot(time_vals, data[col] * scale, label=f"{col}{unit} ({scale})")
                     ax.legend(loc="upper left", bbox_to_anchor=(1, 1))
-                    
+                    ax.set_xlabel("Time (s)")
+                    ax.set_ylabel("Scaled Values")
 
         plt.show(block=True)  # Keep figures responsive
 
