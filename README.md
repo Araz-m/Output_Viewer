@@ -18,9 +18,9 @@ Make sure you have **Python 3.7+** installed. Then, install the required librari
 
 ```bash
 pip install pandas matplotlib numpy
+```
 
 ---
-
 ## ⚙️ Usage
 Configuring Plots
 You can define different plot groups in the script by modifying:
@@ -36,4 +36,5 @@ if you are real time simulation make sure that real_time=True
 Run the Real-Time Plotting Script (I recommend VSCode Terminal)
 
 📸 Sample Output
+
 
