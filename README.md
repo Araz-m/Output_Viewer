@@ -22,8 +22,9 @@ pip install pandas matplotlib numpy
 
 ---
 ## ⚙️ Usage
-Configuring Plots
+###Configuring Plots
 You can define different plot groups in the script by modifying:
+
 plot_groups_1 = {
     "Optimus 20MW-295": (["Wind1VelX", "BldPitch1", "RotSpeed", "RotTorq", "RotPwr", "PtfmTDxt"], 
                 [1, 1, 1, 0.001, 0.001, 0.001]),
@@ -35,6 +36,6 @@ you have to add the exact column name from your .out file and also you have to c
 if you are real time simulation make sure that real_time=True 
 Run the Real-Time Plotting Script (I recommend VSCode Terminal)
 
-📸 Sample Output
+## 📸 Sample Output
 
 
