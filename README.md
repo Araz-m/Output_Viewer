@@ -2,7 +2,7 @@
 
 # Real-Time/None Real-time Data Plotter for Wind Turbine Simulation with OpenFast
 
-This Python script reads simulation data from a `.out` file from OpenFast and dynamically plots various wind turbine parameters in real-time and non real time.
+This Python script reads simulation data from the `.out` file from OpenFast and dynamically plots various wind turbine parameters in real-time and non real time.
 
 ## 📌 Features
 - **Real-time animation** of selected parameters
