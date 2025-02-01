@@ -20,6 +20,7 @@ Make sure you have **Python 3.7+** installed. Then, install the required librari
 pip install pandas matplotlib numpy
 
 ---
+
 ## ⚙️ Usage
 Configuring Plots
 You can define different plot groups in the script by modifying:
