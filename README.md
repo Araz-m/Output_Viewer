@@ -22,7 +22,7 @@ pip install pandas matplotlib numpy
 
 ---
 ## ⚙️ Usage
-###Configuring Plots
+### Configuring Plots
 You can define different plot groups in the script by modifying:
 
 ```bash
@@ -61,7 +61,7 @@ plot_groups_1 = {
 
 you have to add the exact column name from your .out file and also you have to choose the scale that you need for the respected data in the list.
 
-##When you have decided to run the real time simulation make sure that 
+## When you have decided to run the real time simulation make sure that 
 ```bash
 real_time=True
 ```
