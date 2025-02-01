@@ -1,3 +1,5 @@
+# Developed by Araz Hamayeli Mehrabani, Flensburg University of Applied Sciences, 1st February 2025
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
