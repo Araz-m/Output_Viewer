@@ -5,11 +5,11 @@
 This Python script reads simulation data from the `.out` file from OpenFast and dynamically plots various wind turbine parameters in real-time and non real time.
 
 ## 📌 Features
-- **Real-time animation** of selected parameters
-- **Customizable** plotting groups
-- **Automatic file loading** (waits for file to be available)
-- **Scalable** - Easily extend with new plot groups
-
+✅ Real-time data plotting with Matplotlib animations.
+✅ Automatic file monitoring – waits for the simulation output file to be available.
+✅ Multiple plot groups – easily configurable for different sets of parameters.
+✅ Dynamic axis scaling for improved readability.
+✅ Interactive plots that automatically update as new data is written to the file.
 ---
 
 ## 🚀 Installation & Setup
