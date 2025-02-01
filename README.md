@@ -37,11 +37,11 @@ plot_groups_1 = {
 
 you have to add the exact column name from your .out file and also you have to choose the scale that you need for the respected data in the list.
 
-if you are real time simulation make sure that 
+if you are running real time simulation make sure that 
 ```bash
 real_time=True
 ```
-Run the Real-Time Plotting Script (I recommend VSCode Terminal)
+Run the OpenFast_Output_Viewer Script (I used VSCode Terminal)
 
 ## 📸 Sample Output
 
