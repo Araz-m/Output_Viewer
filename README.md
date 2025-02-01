@@ -69,5 +69,8 @@ real_time=True
 Run the OpenFast_Output_Viewer Script (I used VSCode Terminal)
 
 ## 📸 Sample Output
+### 1 Set Example: 
 https://github.com/Araz-m/OpenFast_Output_Viewer/blob/main/Figure_1_Example.png
+### 3 Set Example:
+https://github.com/Araz-m/OpenFast_Output_Viewer/blob/main/3%20sets%20of%20figures_Example.png
 
