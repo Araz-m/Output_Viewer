@@ -1,4 +1,4 @@
-# OpenFast_Output_Viewer
+# Output_Viewer
 
 # Real-Time/None Real-time Data Plotter for Wind Turbine Simulation with OpenFast
 
