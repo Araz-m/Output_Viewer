@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.ticker as ticker
 
 # Load the data file
-file_path = r"C:\Users\Araz\Desktop\DLC\animation\DLC12\OPT-20-295-Monopile.out"
+file_path = r"C:\Users\Araz\Desktop\DLC\animation\DLC12\OPT-20-295-Monopile.out" #change the path to where your output file is stored!
 data_start_line = 6  
 simulation_time_range = (60, 660)  
 simulation_time_step = 0.5  
