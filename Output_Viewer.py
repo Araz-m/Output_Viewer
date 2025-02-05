@@ -53,8 +53,8 @@ plot_groups_1 = {
 }
 
 #==============================================================================
-#uncomment plot_groups_2 if you need to plot more groups 
-# if you did remember to add , plot_groups_2 in the plot_multiple_groups function at the end
+'''uncomment plot_groups_2 below if you need to plot more groups 
+if you did remember to add , plot_groups_2 in the plot_multiple_groups function at the end'''
 #==============================================================================
 # plot_groups_2 = {
 #     "Loads on blade Root_I": (["RootFxb1", "RootFyb1", "RootFzb1", "RootMEdg1", "RootMFlp1", "RootMzb1"], 
@@ -66,8 +66,8 @@ plot_groups_1 = {
 
 
 #==============================================================================
-#uncomment plot_groups_3 if you need to plot more groups
-# if you did remember to add , plot_groups_3 in the plot_multiple_groups function at the end
+'''uncomment plot_groups_3 below if you need to plot more groups
+if you did remember to add , plot_groups_3 in the plot_multiple_groups function at the end'''
 #==============================================================================
 # plot_groups_3 = {
 #     "Loads on Tower Top_I": (["YawBrFxp", "YawBrFyp", "YawBrFzp"], 
